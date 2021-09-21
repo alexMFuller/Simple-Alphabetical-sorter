@@ -23,7 +23,7 @@ int main(int argsc, char** argsv) {
 }
 
 /*
-    swap two integers
+    swap two strings
 */
 
 void swap(int x,int y, char** arr)
